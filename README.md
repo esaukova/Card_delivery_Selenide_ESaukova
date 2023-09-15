@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/y6lilabl9owyjwyv/branch/main?svg=true)](https://ci.appveyor.com/project/esaukova/card-delivery-selenide-esaukova/branch/main)
